@@ -4,7 +4,7 @@
 ## Ex. 02-1
 > I also have worked for some time with Jupyter Notebooks in 2019, when I was doing undergradute reseach in visual analytics. It was good to remember some features of it by building this notebook. 
 
-(Probably a reason to explore Rstudio to learn someting new)
+(Probably a reason to explore Rstudio and learn someting new)
 
 ## Ex. 02-2
 > No problem to compute the values, `numpy` did all the hard work :)
