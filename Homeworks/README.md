@@ -1,6 +1,6 @@
 # Lecture Homeworks Log Journal
 ##  Lecture 1
-- [ ] Read Popper’s text
+- [X] Read Popper’s text
 - [X] Indicate your name on the Pad. You will use to collaborate and fill in all the information you can.
 - [X] Register on the Mattermost through this invitation link. This is the preferred communication mode.
 - [X] Set up a public github or gitlab project for this lecture. You will take notes on this lecture and turn your homework and computational documents in this project.
@@ -10,7 +10,7 @@
 - [X] Report the URL of your git project, your mattermost ID on the Pad.
 
 ## Lecture 2
-- [ ] Start learning R by reading this R crash course for computer scientists (Rmd sources) (slides 14-20)
+- [X] Start learning R by reading this R crash course for computer scientists (Rmd sources) (slides 14-20)
 - [ ] Complete the two data analysis/visualization in a clean R notebook and upload in your github/gitlab space. Make sure we can easily find it when landing on your page. :)
 - [ ] MOOC: Complete exercise 5 of module 2 (Challenger). Write a short text explaining what is good and wrong about this document (you may want to provide an updated version of the notebook) and upload on your github/gitlab space.
 
