@@ -19,7 +19,7 @@
 - [ ] First name/last name analysis in a computational document.
 
 ## Lecture 4
-- [ ] Use good naming and organization conventions in your repos.
+- [X] Use good naming and organization conventions in your repos.
 - [ ] See previous homeworks: use dplyr and ggplot for the first/last name analysis! Complete challenger if you haven’t done so.
-- [ ] If you have time, git a try to git-annex but no worry if you can’t. What’s important is that you know it exists, what it allows to do, and that it is not so difficult to use.
+- [X] If you have time, git a try to git-annex but no worry if you can’t. What’s important is that you know it exists, what it allows to do, and that it is not so difficult to use.
 - [ ] Engage in module 3 of the MOOC and chood a topic for the peer evaluation (final task of module 3).
