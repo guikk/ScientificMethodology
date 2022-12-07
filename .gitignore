@@ -1,3 +1,4 @@
 *.ipynb_checkpoints
 /MOOC/Module3/Exercise3-1/data.csv
 /MOOC/Module3/Exercise3-2/data.csv
+/MOOC/Module3/PeerAssessment/time_series_covid19_confirmed_global.csv
