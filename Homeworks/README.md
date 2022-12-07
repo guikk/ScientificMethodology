@@ -28,5 +28,5 @@
 - [X] Continue the hands-on, improve the experiment design and the analysis
 
 ## Lecture 6
-- [ ] Write an in-depth report using a computational document with a decent data management/statistical treatment (i.e., with confidence intervals or regions!).
+- [X] Write an in-depth report using a computational document with a decent data management/statistical treatment (i.e., with confidence intervals or regions!).
 **Subject Choice** -> Subject 7: The SARS-CoV-2 (Covid-19) epidemic.
