@@ -1,3 +1,12 @@
+# Links
+- [**Comment on Popper's Text**](https://github.com/guikk/ScientificMethodology/blob/main/Homeworks/CommentPopper.md)
+- (TODO) [**Analysis on Kindergarten Data**]() 
+- (TODO) [**Analysis on Feet Size Data**]() 
+- (TODO) [**Analysis on Challenger Data**]() 
+- (TODO) [**Analysis on First/Last Name Data**]() 
+- [**Parallel MergeSort Benchmark Data Collection and Analysis**](https://github.com/guikk/M2R-ParallelQuicksort)
+- [**Peer Review Assessment on the SARS-CoV-2 Pandemic**](https://github.com/guikk/ScientificMethodology/blob/main/MOOC/Module3/PeerAssessment/SARS-CoV-2PandemicAnalysis.ipynb)
+
 # Lecture Homeworks Log Journal
 ##  Lecture 1
 - [X] Read Popper’s text
