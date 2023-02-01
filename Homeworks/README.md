@@ -6,6 +6,7 @@
 - (TODO) [**Analysis on First/Last Name Data**]() 
 - [**Parallel MergeSort Benchmark Data Collection and Analysis**](https://github.com/guikk/M2R-ParallelQuicksort)
 - [**Peer Review Assessment on the SARS-CoV-2 Pandemic**](https://github.com/guikk/ScientificMethodology/blob/main/MOOC/Module3/PeerAssessment/SARS-CoV-2PandemicAnalysis.ipynb)
+- [**Presentation on Ethics of Healthcare Robotics**](https://github.com/guikk/ScientificMethodology/blob/main/Homeworks/EthicsHealthcareRobotics.pdf)
 
 # Lecture Homeworks Log Journal
 ##  Lecture 1
