@@ -39,3 +39,10 @@
 ## Lecture 6
 - [X] Write an in-depth report using a computational document with a decent data management/statistical treatment (i.e., with confidence intervals or regions!).
 **Subject Choice** -> Subject 7: The SARS-CoV-2 (Covid-19) epidemic.
+
+## Lecture 10
+- [ ] Start playing with this DoE Shiny Application: [](https://adaphetnodes.shinyapps.io/design_of_experiments/?abc1111) where you should replace abc1111 by your own id (pick one on the pad by writing your name in front of it).
+
+## Lecture 11
+- [ ] Keep playing with the DoE Shiny Application (https://adaphetnodes.shinyapps.io/design_of_experiments/?abc1111 but with your own id) to experiment with screening and LHS designs or with Gaussian-Process based exporation.
+- [X] Choose a topic for the lecture on Ethics. Prepare a short (1-page) summary with the context (addressed problem and solution 50%) and your opinion about the pros and cons of the proposed technology (50%). Prepare also 2 slides to possibly present the problem to the class.
